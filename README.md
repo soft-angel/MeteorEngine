@@ -1,4 +1,4 @@
-![screenshot of sample](https://meteorengine.ru/MeteorRC/template/.default/images/logo.png)
+![MeteorEngine](https://meteorengine.ru/MeteorRC/template/.default/images/logo.png)
 
 # CMS MeteorEngine
 Платформа для профессиональной разработки сайтов, основное преимущество - это **быстрая генерация страниц**, примерно **0.009** сек.
