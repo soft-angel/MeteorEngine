@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'BigNoodleTitlingCyr';
+  src: url('BigNoodleTitlingCyr.woff') format('woff'),
+       url('BigNoodleTitlingCyr.ttf') format('truetype'),
+       url('BigNoodleTitlingCyr.svg#BigNoodleTitlingCyr') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Big_Noodle_Titling_Cyr';
+  src: url('Big_Noodle_Titling_Cyr.eot');
+  src: url('Big_Noodle_Titling_Cyr.woff2') format('woff2'),
+       url('Big_Noodle_Titling_Cyr.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,23 @@
+#scaner ul#result {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#scaner .progress {
+    height: 30px;
+}
+#scaner span#status {
+    display: inline-block;
+    padding: 5px 0;
+}
+button#scan_start {
+    width: 100%;
+}
+
+#scaner a>ul>li {
+    color: red;
+    list-style: decimal outside;
+}
+#scaner a>ul {
+    display: none;
+}

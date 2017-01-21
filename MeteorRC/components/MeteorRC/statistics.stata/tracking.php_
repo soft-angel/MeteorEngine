@@ -1,0 +1,94 @@
+<?php
+ini_set('display_errors',1);
+include("helper.php");
+$Stata = new Stata;
+// p($Stata->arCity);
+
+// Определение бота
+if ($userAgent = getBOT($_SERVER['HTTP_USER_AGENT'])) {
+	 if ($Stata->config["botssstat"] == 'Y') {
+		$arBot = $Stata->GetFileArray(FILE_BOT);
+		$arBot[$Stata->ip] = array(
+			'TIME' => time(),
+			'U_A' => $userAgent,
+			'CTR' => $Stata->arCity['COUNTRY'],
+			'CITY' => $Stata->arCity['CITY']['NAME'],
+			'GEO' => $Stata->arCity['CITY']['LAT'] . ',' . $Stata->arCity['CITY']['LON'],
+			'URL' => $Stata->url,
+		);
+		// Запись данных
+		$Stata->ArrayWriter($arBot, FILE_BOT);
+	 }
+} else {
+    if ($domain = getOTHBOTdomain($Stata->hostname) or $userAgent = getOTHBOT($_SERVER['HTTP_USER_AGENT'])) {
+        if ($Stata->config["otherrobots"] == 'Y') {
+			$arOthBot = $Stata->GetFileArray(FILE_OTH_BOT);
+			$arOthBot[$Stata->ip] = array(
+				'TIME' => time(),
+				'U_A' => $userAgent,
+				'CTR' => $Stata->arCity['COUNTRY'],
+				'CITY' => $Stata->arCity['CITY']['NAME'],
+				'GEO' =>$Stata->arCity['CITY']['LAT'] . ',' . $Stata->arCity['CITY']['LON'],
+				'HOST' => $domain,
+				'URL' => $Stata->url,
+			);
+			// Запись данных
+			$Stata->ArrayWriter($arOthBot, FILE_OTH_BOT);
+        }
+    } else {
+        @session_start();
+		unset($_SESSION[date("Y-m-d")]);
+		$_SESSION[date("Y-m-d")] = 0;
+        $_SESSION[date("Y-m-d")]++;
+        $_SESSION[date("Y-m-d")]++;
+        if ($_SESSION[date("Y-m-d")]++ == "2") {
+            if ($browser = getBROWSER($_SERVER['HTTP_USER_AGENT'])) {
+                // Запись Юзера
+				if ($Stata->config["usersstat"] == 'Y') {
+					$arUser = $Stata->GetFileArray(FILE_USER);
+					// Был ли ранее записан
+					if(isset($arUser[$Stata->ip])){
+						// Если да, то прибавлям посещение и последний тайм
+						$arUser[$Stata->ip]['CNT'] = ($arUser[$Stata->ip]['CNT'] + 1);
+						$arUser[$Stata->ip]['LAST_TIME'] = time();
+					}else{
+						$arUser[$Stata->ip] = array(
+							'TIME' => time(),
+							'CTR' => $Stata->arCity['COUNTRY'],
+							'CITY' => $Stata->arCity['CITY']['NAME'],
+							'GEO' =>$Stata->arCity['CITY']['LAT'] . ',' . $Stata->arCity['CITY']['LON'],
+							'URL' => $Stata->url,
+						);
+						if($os = getOS($_SERVER['HTTP_USER_AGENT']))
+							$arUser[$Stata->ip]['OS'] = $os;
+						if($q = getQ($Stata->referer, true))
+							$arUser[$Stata->ip]['Q'] = $q;
+						if($Stata->referer and !$q)
+							$arUser[$Stata->ip]['REFERER'] = $Stata->referer;
+						if($browser)
+							$arUser[$Stata->ip]['BRW'] = $browser;
+					}
+					// Запись данных
+					$Stata->ArrayWriter($arUser, FILE_USER);
+				}
+            } else {
+                if ($Stata->config["otherusers"] == 'Y') {
+					$arUser = $Stata->GetFileArray(FILE_OTH_USER);
+					$arUser[$Stata->ip] = array(
+						'TIME' => time(),
+						'U_A' => $_SERVER['HTTP_USER_AGENT'],
+						'CTR' => $Stata->arCity['COUNTRY'],
+						'CITY' => $Stata->arCity['CITY']['NAME'],
+						'GEO' =>$Stata->arCity['CITY']['LAT'] . ',' . $Stata->arCity['CITY']['LON'],
+						'URL' => $http_host . $request_url,
+						'REFERER' => $Stata->referer,
+						'URL' => $Stata->url,
+					);
+					// Запись данных
+					$Stata->ArrayWriter($arUser, FILE_OTH_USER);
+                }
+            }
+        }
+    }
+}
+?>

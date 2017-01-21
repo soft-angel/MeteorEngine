@@ -1,0 +1,12 @@
+img {
+    width: 100%;
+}
+p {
+    text-align: center;
+}
+.h3, h3 {
+    text-align: center;
+}
+.btn-group-justified {
+    margin-bottom: 5px;
+}

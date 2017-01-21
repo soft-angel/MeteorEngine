@@ -1,0 +1,8 @@
+.musicbackround button {
+    background-color: transparent;
+    border: 0;
+    font-size: 20px;
+    line-height: 60px;
+    color: #fff;
+    outline: 0;
+}

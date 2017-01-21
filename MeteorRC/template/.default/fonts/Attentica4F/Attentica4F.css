@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Attentica4F';
+  src: url('Attentica 4F UltraLight.eot');
+  src: url('Attentica 4F UltraLight.woff2') format('woff2'),
+       url('Attentica 4F UltraLight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Attentica4F';
+  src: url('Attentica4F-UltraLight.woff') format('woff'),
+       url('Attentica4F-UltraLight.ttf') format('truetype'),
+       url('Attentica4F-UltraLight.svg#Attentica4F-UltraLight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,10 @@
+Компонент выводит и добавляет отзывы, как в общий список так и для конкретного элемента, если указать ELEMENT_ID и соответствующие COMPONENT с IBLOCK.
+Вызов компонента:
+<?$APPLICATION->IncludeComponent("MeteorRC:main.reviews", "", Array(
+		"COMPONENT" => 'main',
+		"IBLOCK" => 'reviews',	// Инфоблок
+		"ELEMENT_ID" => false,	// Ид элемента
+		'PREMODERATE' => 'Y',
+	),
+	false
+);?>

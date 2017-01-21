@@ -1,0 +1,10 @@
+<FilesMatch "config.php">
+
+	Allow from all
+
+</FilesMatch>
+<FilesMatch "connector.php">
+
+	Allow from all
+
+</FilesMatch>

@@ -1,0 +1,94 @@
+/* Modal */
+body.blur {
+    /*  -ms-filter: blur(5px);
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    filter: url(#blur5px);*/
+}
+div#modal_claver {
+    -webkit-transition: top 0.5s ease, opacity 0.5s ease;
+    -moz-transition: top 0.5s ease, opacity 0.5s ease;
+    -ms-transition: top 0.5s ease, opacity 0.5s ease;
+    -o-transition: top 0.5s ease, opacity 0.5s ease;
+    transition: top 0.5s ease, opacity 0.5s ease;
+    position: fixed;
+    left: 50%;
+    background-color: #1A2229;
+    z-index: 10000;
+    box-shadow: #1A2229 0 0 5px 1px;
+    border-bottom: #24B498 2px solid;
+}
+div#modal_claver input, div#modal_claver textarea {
+    color: #000;
+}
+.btn_admin {
+    background-color: transparent;
+    border: 1px #fff solid;
+    padding: 10px 15px;
+    display: block;
+    margin: 15px auto;
+}
+.modal_top {
+    padding: 8px 15px 8px 15px;
+    display: inline-block;
+    width: 100%;
+    background-color: #24B498;
+}
+div#modal_close {
+    cursor: pointer;
+    top: 4px;
+}
+div#modal_close, div#modal_name {
+    margin: 0;
+    font-size: 18px;
+    color: #fff;
+    float: right;
+    z-index: 10;
+    position: relative;
+}
+div#modal_content {
+    padding: 25px 15px 5px 15px;
+    color: #fff;
+}
+div#modal_name {
+    width: 90%;
+    float: left;
+}
+div#modal_wrap {
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.content_wrap {
+    max-height: 500px;
+    padding-bottom: 10px;
+}
+
+
+div#modal_wrap input[type="password"], div#modal_wrap input[type="email"], div#modal_wrap input[type="text"], div#modal_wrap .accordion_edit_all select {
+    height: 30px;
+    border: 0;
+    padding: 0 5px;
+    box-shadow: #000 0px 2px 10px -4px inset;
+    background-color: #fff;
+}
+span.input_left {
+    background-color: #fff;
+    color: #F74C55;
+    width: 30px;
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    border-radius: 5px 0px 0px 5px;
+    float: left;
+    border-right: 1px #9E9E9E solid;
+}
+span.input_left i {
+    line-height: 30px;
+}
+/* End Modal */

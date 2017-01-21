@@ -1,0 +1,9 @@
+<?$APPLICATION->IncludeComponent("MeteorRC:map.2gis",".default",Array(
+        "CACHE_TYPE" => "A",    // Тип кеширования
+        "CACHE_TIME" => "36000000", // Время кеширования (сек.)
+        "MAP_ID" => 'contacts',
+        "WIDTH" => '100%',
+        "HEIGHT" => '400px',
+    ),
+    false
+);?>

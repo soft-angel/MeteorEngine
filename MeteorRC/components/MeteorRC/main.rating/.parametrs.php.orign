@@ -1,0 +1,19 @@
+<?if (!defined("PROLOG_INCLUDED") || PROLOG_INCLUDED!==true) die();
+return array(
+	"COMPONENT" => "shop",
+	"NAME" => "Рэйтинг",
+	"IBLOCK" => "elements",
+	"DESCRIPTION" => "Управление товарами",
+	"ICON" => '<i class="fa fa-shopping-cart"></i>',
+	"EDITOR_FILE" => "/MeteorRC/admin/editors/elements.php",
+	"BD_FOLDER" => "/MeteorRC/bd/shop/",
+	"CORPORATE" => "MeteorRC",
+	"TEXT_ADD" => "Добавить товар",
+	"WINDOW_WIDTH" => 470,
+	'TABS' => array(
+	),
+	"ADMIN" => "N",
+	"FIELDS" => array(
+	),
+);
+?>
