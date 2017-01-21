@@ -1,9 +1,0 @@
-<?$APPLICATION->IncludeComponent("MeteorRC:map.yandex",".default",Array(
-		"CACHE_TYPE" => "H",	// Тип кеширования
-		"CACHE_TIME" => "36000000",	// Время кеширования (сек.)
-		"MAP_ID" => 'contacts',
-		"WIDTH" => '100%',
-		"HEIGHT" => '400px',
-    ),
-	false
-);?>

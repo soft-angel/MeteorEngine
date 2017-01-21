@@ -1,9 +1,0 @@
-#meteor_hosting .panel-body>p>i, #meteor_hosting .panel-body>p>b {
-    color: #00ACAC;
-    width: 18px;
-    text-align: left;
-}
-
-#meteor_hosting .panel-body {
-    min-height: 305px;
-}

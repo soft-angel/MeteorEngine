@@ -1,4 +1,0 @@
-# Разрешаем phpThumb.php
-<FilesMatch "(phpThumb.php)$">
-	Allow from all
-</FilesMatch>

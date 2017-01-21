@@ -1,4 +1,0 @@
-AddDefaultCharset utf-8
-# -- for zenon.net hosting --
-# AddLanguage ru .html .txt .php
-# AddType "text/html; charset=utf-8" .htm .html .php
