@@ -1,0 +1,32 @@
+User-Agent: *
+Disallow: /MeteorRC/
+Disallow: /personal/
+Disallow: /search/
+Allow: /MeteorRC/template/*
+Allow: /MeteorRC/js/*
+Allow: /MeteorRC/upload/*
+Allow: /MeteorRC/cache/*
+Allow: /MeteorRC/main/plugins/phpthumb/*
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.png
+Allow: /*.jpeg
+Allow: /*.jpg
+# Sitemap: http://example.com/sitemap.xml
+
+User-Agent: Yandex
+Disallow: /MeteorRC/
+Disallow: /personal/
+Disallow: /search/
+Allow: /MeteorRC/template/*
+Allow: /MeteorRC/js/*
+Allow: /MeteorRC/upload/*
+Allow: /MeteorRC/cache/*
+Allow: /MeteorRC/main/plugins/phpthumb/*
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.png
+Allow: /*.jpeg
+Allow: /*.jpg
+# Sitemap: http://example.com/sitemap.xml
+# Host: example.com

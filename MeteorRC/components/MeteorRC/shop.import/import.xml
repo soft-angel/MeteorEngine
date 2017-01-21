@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2016-03-03 01:13">
+<shop>
+<name>Группа компаний Top Trade</name>
+<company>Группа компаний Top Trade</company>
+<url>http://gktt.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+<currency id="USD" rate="30.33"/>
+<currency id="EUR" rate="38.98"/>
+<currency id="UAH" rate="3.77"/>
+</currencies>
+<categories>
+<category id="1091">Колокольчики</category>
+<category id="1093">Кресты</category>
+<category id="1089">Подвески</category>
+<category id="1090">Православные иконы</category>
+<category id="1094">Разное</category>
+<category id="1088">Серьги</category>
+<category id="1092">Столовое серебро</category>
+</categories>
+<offers>
+<offer id="30794" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/avtoikona_serebryanaya_s_pozolotoy/?r1=yandext&amp;r2=</url>
+<price>11900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/fd4/fd44df72002f7cfabd976d160625b2e9.jpg</picture>
+<name>Автоикона серебряная с позолотой</name>
+<description>Вес: 37.00
+Размеры: 6.5/4.5/0.3
+Вставки: фианиты
+Технологии: литьё, позолота, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30805" available="true">
+<url>http://gktt.ru/catalog/bijou/raznoe/brosh_kot_4_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1725</price>
+<currencyId>RUR</currencyId>
+<categoryId>1094</categoryId>
+<picture>http://gktt.ru/upload/iblock/079/0794434f9b1d39b4c45fca9b4dd23dda.jpg</picture>
+<name>Брошь Кот-4 из серебра</name>
+<description>Вес: 4.79
+Размеры: 3.1/2.3/0.6
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30808" available="true">
+<url>http://gktt.ru/catalog/bijou/raznoe/garnitur_drevnerusskaya_radost_iz_serebra_pozolochennyy/?r1=yandext&amp;r2=</url>
+<price>19900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1094</categoryId>
+<picture>http://gktt.ru/upload/iblock/5a8/5a8cad3b9af8f34f7e742a495b02c9c6.jpg</picture>
+<name>Гарнитур &amp;quot;Древнерусская радость&amp;quot; из серебра позолоченный</name>
+<description>Вес: 25.00
+Вставки: султанит
+Технологии: позолота, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30811" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_avtomobilnaya_iz_bronzy/?r1=yandext&amp;r2=</url>
+<price>4900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/645/6454d873f731602bec6651732add5f94.jpg</picture>
+<name>Икона автомобильная из бронзы</name>
+<description>Вес: 37.00
+Размеры: 6.5/4.5/0.3
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30793" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_avtomobilnaya_serebryanaya/?r1=yandext&amp;r2=</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/91f/91f6d565c3a40f40083cd1390dbd7243.jpg</picture>
+<name>Икона автомобильная серебряная</name>
+<description>Вес: 37.00
+Размеры: 6.5/4.5/0.3
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30797" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_feodorovskaya_bogomater_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>16900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/157/1578af92d72f75505c5a989448255a55.jpg</picture>
+<name>Икона Феодоровская Богоматерь бронзовая</name>
+<description>Вес: 250.00
+Размеры: 12/7/1.2
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30803" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_georgiy_pobedonosets_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>12200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/445/445f09be903a701582efa875282f2dc5.jpg</picture>
+<name>Икона Георгий Победоносец бронзовая</name>
+<description>Вес: 170.00
+Размеры: 8/6/1
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30798" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_gospod_vsederzhitel_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>16900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/437/43713918e76b2344589c5b03c36dfab7.jpg</picture>
+<name>Икона Господь Вседержитель бронзовая</name>
+<description>Вес: 250.00
+Размеры: 12/7/1.2
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30796" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_kazanskaya_bogomater_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>16900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/01d/01d57d9a0c8057180fb2942c4a1aeab9.jpg</picture>
+<name>Икона Казанская Богоматерь бронзовая</name>
+<description>Вес: 250.00
+Размеры: 12/7/1.2
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30802" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_kazanskaya_bogomater_serebryanaya/?r1=yandext&amp;r2=</url>
+<price>27900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/386/38686ca841302f6460f61a475b0fa2a1.jpg</picture>
+<name>Икона Казанская Богоматерь серебряная</name>
+<description>Вес: 80.00
+Размеры: 7/5/0.6
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30804" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_kseniya_peterburgskaya_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>8400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/eb8/eb88add6c5a7d4c1ee672c5aece65bd2.jpg</picture>
+<name>Икона Ксения Петербургская бронзовая</name>
+<description>Вес: 40.00
+Размеры: 6/3/0.5
+Вставки: фианиты
+Технологии: золочение, литьё, ручная гравировка, ручная работа, серебрение
+</description>
+</offer>
+<offer id="30801" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_neupivaemaya_chasha_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>10600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/d52/d5285b2b89ca67f610258be85925a5c3.jpg</picture>
+<name>Икона Неупиваемая Чаша бронзовая</name>
+<description>Вес: 80.00
+Размеры: 7/5/0.6
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30795" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_nikolay_chudotvorets_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>10600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/1ba/1ba5555576c4522ad03a359a5f649910.jpg</picture>
+<name>Икона Николай Чудотворец бронзовая</name>
+<description>Вес: 80.00
+Размеры: 7/5/0.6
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30790" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_nikolay_chudotvorets_s_tsepochkoy_serebryanaya/?r1=yandext&amp;r2=</url>
+<price>34900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/d1f/d1f8429d2a950b9c10f12532da8ceb92.jpg</picture>
+<name>Икона Николай Чудотворец с цепочкой серебряная</name>
+<description>Вес: 75.00
+Размеры: 5.7/3/0.5
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30800" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_nikolay_chudotvorets_serebryanaya/?r1=yandext&amp;r2=</url>
+<price>27900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/2da/2da5951f4946bac442c3d7c82c9768ef.jpg</picture>
+<name>Икона Николай Чудотворец серебряная</name>
+<description>Вес: 80.00
+Размеры: 7/5/0.6
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30799" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_svyataya_matrona_bronzovaya/?r1=yandext&amp;r2=</url>
+<price>16900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/180/180a2017c2d14d3607819aaa15935313.jpg</picture>
+<name>Икона Святая Матрона бронзовая</name>
+<description>Вес: 250.00
+Размеры: 12/7/1.2
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30792" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_vladimirskaya_bogomater_serebryanaya/?r1=yandext&amp;r2=</url>
+<price>149000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/104/1043a282e36149fb301dd0fec166caeb.jpg</picture>
+<name>Икона Владимирская Богоматерь серебряная</name>
+<description>Вес: 300.00
+Размеры: 11.5/11.5/1
+Вставки: гранат, нефрит, фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30791" available="true">
+<url>http://gktt.ru/catalog/bijou/pravoslavnye_ikony/ikona_vladimirskaya_bogomater_serebryanaya_s_zolotom/?r1=yandext&amp;r2=</url>
+<price>299000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1090</categoryId>
+<picture>http://gktt.ru/upload/iblock/b9e/b9ef5a853d40cf6ea0bb9b588c844124.jpg</picture>
+<name>Икона Владимирская Богоматерь серебряная с золотом</name>
+<description>Вес: 300.00
+Размеры: 11.5/11.5/1
+Вставки: гранат, нефрит, фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30771" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_angel_khranitel_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/c23/c23e2e085e0d94c24cb39f6534126f32.jpg</picture>
+<name>Колокольчик Ангел Хранитель бронзовый</name>
+<description>Вес: 40.00
+Размеры: 7.9/2.2/2.2
+Вставки: без вставок
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30772" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_angel_khranitel_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/d67/d677e8e62443828941084432e9c9464d.jpg</picture>
+<name>Колокольчик Ангел Хранитель серебряный</name>
+<description>Вес: 40.00
+Размеры: 7.9/2.2/2.2
+Вставки: без вставок
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30773" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_arkhangel_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/3d4/3d4c0d3fc8d3d98f31bb10ce1b711b82.jpg</picture>
+<name>Колокольчик Архангел бронзовый</name>
+<description>Вес: 50.00
+Размеры: 6.3/3/3
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30774" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_arkhangel_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/362/36201d94780482fa6cfb94fdf196bc8b.jpg</picture>
+<name>Колокольчик Архангел серебряный</name>
+<description>Вес: 50.00
+Размеры: 6.3/3/3
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30766" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_baran_taran_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/a0c/a0c71770c83c1ab36cbc813faba9c3f2.jpg</picture>
+<name>Колокольчик Баран-таран бронзовый</name>
+<description>Вес: 50.00
+Размеры: 4.1/3.1/3.1
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30767" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_baran_taran_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>9400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/05a/05a398723b03ad37e163c1bdb7dc64e7.jpg</picture>
+<name>Колокольчик Баран-таран серебряный</name>
+<description>Вес: 50.00
+Размеры: 4.1/3.1/3.1
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30777" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_buket_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/381/38146d53a08851e6cf4c5c7a7e5f8499.jpg</picture>
+<name>Колокольчик Букет бронзовый</name>
+<description>Вес: 45.00
+Размеры: 4.6/3.5/3.5
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30778" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_buket_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/e0a/e0ae17f54964176118a9d1599aa46cc7.jpg</picture>
+<name>Колокольчик Букет серебряный</name>
+<description>Вес: 45.00
+Размеры: 4.6/3.5/3.5
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30784" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_buratino_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/588/588834ebc8b8912528e2bc005850fb73.jpg</picture>
+<name>Колокольчик Буратино серебряный</name>
+<description>Вес: 50.00
+Размеры: 5.6/3.2/3.2
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30781" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_ded_moroz_i_snegurochka_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>9400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/606/606d4a28027e1522b1ca8b62ded31865.jpg</picture>
+<name>Колокольчик Дед Мороз и Снегурочка серебряный</name>
+<description>Вес: 56.00
+Размеры: 6.3/3.4/3.4
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30783" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_dzhoker_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/a08/a0882d72be04eb67a132576bca9ec17e.jpg</picture>
+<name>Колокольчик Джокер серебряный</name>
+<description>Вес: 40.00
+Размеры: 6.4/2.2/2.2
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30770" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_gorod_vlyublennykh_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>13400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/897/89722b67ed124addcff1ae285687959c.jpg</picture>
+<name>Колокольчик Город влюбленных серебряный</name>
+<description>Вес: 50.00
+Размеры: 10.4/2.2/2.2
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30782" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_karlson_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/00b/00b3cb375cb39dbf86534c03a83d3d21.jpg</picture>
+<name>Колокольчик Карлсон бронзовый</name>
+<description>Вес: 50.00
+Размеры: 6.1/2.3/2.3
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30768" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_konek_gorbunok_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/323/32340404a09f3f7d8667ca94f3800361.jpg</picture>
+<name>Колокольчик Конек Горбунок бронзовый</name>
+<description>Вес: 25.00
+Размеры: 3.5/1.9/3.8
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30769" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_konek_gorbunok_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/91f/91f7f388af1ee21c3267f310fe394b7c.jpg</picture>
+<name>Колокольчик Конек Горбунок серебряный</name>
+<description>Вес: 25.00
+Размеры: 3.5/1.9/3.8
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30779" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_kostromskaya_snegurochka_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/3e6/3e6796622c1ca5cb8f1970cea21bb614.jpg</picture>
+<name>Колокольчик Костромская Снегурочка серебряный</name>
+<description>Вес: 35.00
+Размеры: 5.7/3/3
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30787" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_kupidon_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/2f9/2f97227160cd9f771879f7d57238824c.jpg</picture>
+<name>Колокольчик Купидон серебряный</name>
+<description>Вес: 30.00
+Размеры: 8.5/3.1/3.1
+Вставки: жемчуг
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30785" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_novogodniy_krolik_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/431/431958e73ba6788ea059197f78a79f04.jpg</picture>
+<name>Колокольчик Новогодний кролик бронзовый</name>
+<description>Вес: 30.00
+Размеры: 5.4/3.3/3.3
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30763" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_paskhalnyy_iz_bronzy/?r1=yandext&amp;r2=</url>
+<price>4400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/9a4/9a4deabbd53421956c09ba9c530a0251.jpg</picture>
+<name>Колокольчик &amp;quot;Пасхальный&amp;quot; из бронзы</name>
+<description>Вес: 46.00
+Размеры: 6.4/4.3/4.3
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30810" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_paskhalnyy_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>10900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/f2b/f2b2d9a159123facc11de53352803ca7.jpg</picture>
+<name>Колокольчик Пасхальный из серебра</name>
+<description>Вес: 46.00
+Размеры: 6.4/4.3/4.3
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30780" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_svadebnyy_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>10900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/880/8802cb5b3e470d51af8cff91268c580a.jpg</picture>
+<name>Колокольчик Свадебный серебряный</name>
+<description>Вес: 50.00
+Размеры: 4.4/2.2/2.8
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30765" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_venchalnyy_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>13400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/9c0/9c0a738d49f58fdbad0067d9f67b822b.jpg</picture>
+<name>Колокольчик Венчальный серебряный</name>
+<description>Вес: 55.00
+Размеры: 9.6/3.7/3.7
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30775" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_zhemchuzhnyy_angel_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/15f/15f3722085a658bd0d6719084f973ff7.jpg</picture>
+<name>Колокольчик Жемчужный Ангел бронзовый</name>
+<description>Вес: 30.00
+Размеры: 6.4/3/3
+Вставки: жемчуг
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30776" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_zhemchuzhnyy_angel_serebro/?r1=yandext&amp;r2=</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/672/672b8fa8e25a09c2b777335546067b26.jpg</picture>
+<name>Колокольчик Жемчужный Ангел серебро</name>
+<description>Вес: 35.00
+Размеры: 8.8/2.9/2.9
+Вставки: жемчуг
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30786" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_zmey_gorynych_bronzovyy/?r1=yandext&amp;r2=</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/b55/b559a9a327faca2996be9e757e820741.jpg</picture>
+<name>Колокольчик Змей Горыныч бронзовый</name>
+<description>Вес: 35.00
+Размеры: 4.8/3.4/3.4
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30764" available="true">
+<url>http://gktt.ru/catalog/bijou/kolokolchiki/kolokolchik_zvezda_rozhdestva_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>10900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1091</categoryId>
+<picture>http://gktt.ru/upload/iblock/235/235c0a4780b8382d760e3bdac3a61ee0.jpg</picture>
+<name>Колокольчик Звезда Рождества серебряный</name>
+<description>Вес: 50.00
+Размеры: 6.1/4.4/2.8
+Вставки: фианиты
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30789" available="true">
+<url>http://gktt.ru/catalog/bijou/stolovoe_serebro/komplekt_stopok_damskiy_kapriz_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>43900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1092</categoryId>
+<picture>http://gktt.ru/upload/iblock/ada/adaddd08c1272f9569ab6fade496ce54.jpg</picture>
+<name>Комплект стопок &amp;quot;Дамский каприз&amp;quot; из серебра</name>
+<description>Вес: 240.00
+Вставки: без вставок
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30788" available="true">
+<url>http://gktt.ru/catalog/bijou/kresty/krest_otche_nash_serebryanyy/?r1=yandext&amp;r2=</url>
+<price>8360</price>
+<currencyId>RUR</currencyId>
+<categoryId>1093</categoryId>
+<picture>http://gktt.ru/upload/iblock/84f/84f14fc58208f95f3ac295767f5d5f44.jpg</picture>
+<name>Крест Отче Наш серебряный</name>
+<description>Вес: 38.00
+Размеры: 8/4.2/0.7
+Технологии: литьё, ручная гравировка, ручная работа
+</description>
+</offer>
+<offer id="30739" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/kulon_kolokolchik_matreshka_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>3745</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/64d/64df955009b7741e723763b1f756505a.jpg</picture>
+<name>Кулон-колокольчик Матрешка из серебра</name>
+<description>Вес: 10.40
+Размеры: 2.4/1.5/1.3
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30746" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/kulon_kot_7_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>4140</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/4a0/4a04650f2aa7056d051d07b349f809e3.jpg</picture>
+<name>Кулон Кот-7 из серебра</name>
+<description>Вес: 11.49
+Размеры: 2.5/2.5/0.4
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30740" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/kulon_sumochka_sm_2_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>6350</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/221/2212c65c1e17dff7934b71b3672415db.jpg</picture>
+<name>Кулон Сумочка СМ-2 из серебра</name>
+<description>Вес: 17.64
+Размеры: 2.5/2.8/0.5
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30807" available="true">
+<url>http://gktt.ru/catalog/bijou/raznoe/napyerstok_ovechka_vn_1_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>2650</price>
+<currencyId>RUR</currencyId>
+<categoryId>1094</categoryId>
+<picture>http://gktt.ru/upload/iblock/415/4155ca9d9405c87ec769bb8fea9c514d.jpg</picture>
+<name>Напёрсток Овечка ВН-1 из серебра</name>
+<description>Вес: 7.35
+Размеры: 1.8/0.9/0.9
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30742" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_angel_2_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1370</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/5aa/5aa52e4c9bdb47702960966e2364d064.jpg</picture>
+<name>Подвеска Ангел-2 из серебра</name>
+<description>Вес: 3.80
+Размеры: 3.7/1/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30741" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_angel_krt_25_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1680</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/11f/11f2eabbf94576e9d4dfbc0392209ccb.jpg</picture>
+<name>Подвеска Ангел Крт-25 из серебра</name>
+<description>Вес: 4.66
+Размеры: 2.6/1.5/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30757" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_babochka_vs_17_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/5df/5df95934a83dd93e0c0e78779aa58f8b.jpg</picture>
+<name>Подвеска Бабочка ВС-17 из серебра</name>
+<description>Вес: 2.17
+Размеры: 2.4/1.5/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30752" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_belka_vp_29_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1150</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/1f0/1f042fb05e25ff8b8955013cb98da9f6.jpg</picture>
+<name>Подвеска Белка ВП-29 из серебра</name>
+<description>Вес: 2.78
+Размеры: 2.6/1.2/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30744" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_chudo_ryba_yup_4_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>2540</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/a47/a47efd1782b2c4c8d04f19f183988af4.jpg</picture>
+<name>Подвеска Чудо-рыба Юп-4 из серебра</name>
+<description>Вес: 7.05
+Размеры: 4/2.4/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30759" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_devochka_pp_5_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1670</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/10a/10a8c13076b6f54f67e0f05f9a15f5ba.jpg</picture>
+<name>Подвеска Девочка ПП-5 из серебра</name>
+<description>Вес: 4.63
+Размеры: 5.6/2/0.2
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30760" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_izbushka_vp_20_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>950</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/220/2203adb4b785f69930caf46278d3674e.jpg</picture>
+<name>Подвеска Избушка ВП-20 из серебра</name>
+<description>Вес: 1.94
+Размеры: 2.5/1.3/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30762" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_izbushka_vp_21_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>950</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/39f/39f269bc6607a068913d7b8208de3a9e.jpg</picture>
+<name>Подвеска Избушка ВП-21 из серебра</name>
+<description>Вес: 1.89
+Размеры: 2/1.4
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30747" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_kot_1_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>2550</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/a9f/a9feb27a0e58a6a924763d43c2a278ee.jpg</picture>
+<name>Подвеска Кот-1 из серебра</name>
+<description>Вес: 7.07
+Размеры: 3/2.3/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30748" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_kot_2_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>2180</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/6e6/6e69e62d30f627ed5fcd760bce95359f.jpg</picture>
+<name>Подвеска Кот-2 из серебра</name>
+<description>Вес: 6.05
+Размеры: 3/2.1/0.2
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30749" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_kot_3_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1325</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/f56/f56e3c9ff0752861b5c3f21a2a8d0068.jpg</picture>
+<name>Подвеска Кот-3 из серебра</name>
+<description>Вес: 3.68
+Размеры: 1.8/2.4/0.2
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30750" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_kot_5_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1360</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/8ad/8ad50fcc7db9e728af246bef47fd88f1.jpg</picture>
+<name>Подвеска Кот-5 из серебра</name>
+<description>Вес: 3.78
+Размеры: 2.6/2.1/0.2
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30751" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_kot_6_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1040</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/f72/f7200f0e3ca101532e5dc26708ec25ad.jpg</picture>
+<name>Подвеска Кот-6 из серебра</name>
+<description>Вес: 2.45
+Размеры: 1.9/1.5/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30738" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_krolik_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>2275</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/54a/54a30972e2a187ff06bb20137c4c884b.jpg</picture>
+<name>Подвеска Кролик из серебра</name>
+<description>Вес: 6.32
+Размеры: 3.8/1/0.4
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30753" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_lev_vp_32_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/809/809d2f640203ec1c1926b06a6f928c96.jpg</picture>
+<name>Подвеска Лев ВП-32 из серебра</name>
+<description>Вес: 4.15
+Размеры: 2.4/2.7/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30758" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_malek_sp_11_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>830</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/000/0004d7a58bbfa0c2b4f452bdca2a06ab.jpg</picture>
+<name>Подвеска Малек СП-11 из серебра</name>
+<description>Вес: 1.40
+Размеры: 1.5/1.6/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30756" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_ovechka_vp_33_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/17a/17ad6e77cdd3538f2313eb484d6877f3.jpg</picture>
+<name>Подвеска Овечка ВП-33 из серебра</name>
+<description>Вес: 2.54
+Размеры: 2.7/2/0.2
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30743" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_ovechka_vp_34_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>3355</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/18f/18fc70b868a8be9414422db9bf75aac1.jpg</picture>
+<name>Подвеска Овечка ВП-34 из серебра</name>
+<description>Вес: 9.13
+Размеры: 2.3/1.4/1.4
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30745" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_tsvetok_vp_9_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>960</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/370/3702472e3717f50f2c35aa3b5f9260c1.jpg</picture>
+<name>Подвеска Цветок Вп-9 из серебра</name>
+<description>Вес: 2.04
+Размеры: 3.8/1.5/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30755" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_ulitka_vp_30_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>950</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/57d/57df2dbabc5978da4770bf7654209b9f.jpg</picture>
+<name>Подвеска Улитка ВП-30 из серебра</name>
+<description>Вес: 1.82
+Размеры: 1.3/2.1/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30754" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_vsadnik_sp_30_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1280</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/5c6/5c6d3a7865fbb9f42b611536ec80110e.jpg</picture>
+<name>Подвеска Всадник СП-30 из серебра</name>
+<description>Вес: 3.56
+Размеры: 2.3/2.3/0.2
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30761" available="true">
+<url>http://gktt.ru/catalog/bijou/podveski/podveska_zmeyka_vp_28_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1390</price>
+<currencyId>RUR</currencyId>
+<categoryId>1089</categoryId>
+<picture>http://gktt.ru/upload/iblock/c5f/c5f8ba63e60c9d20cfb4f5bfe09869a8.jpg</picture>
+<name>Подвеска Змейка ВП-28 из серебра</name>
+<description>Вес: 3.86
+Размеры: 4.1/1.8/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30727" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_cherepashki_s_2_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>5315</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/696/6967e9480a5a3aa1ef2f94ade7ba9330.jpg</picture>
+<name>Серьги Черепашки С-2 из серебра</name>
+<description>Вес: 14.76
+Размеры: 4/1.9/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30737" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_devchata_ps_8_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>4170</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/383/3836e139421ce94e7e8d4b5b3e35ec09.jpg</picture>
+<name>Серьги Девчата ПС-8 из серебра</name>
+<description>Вес: 11.59
+Размеры: 6.5/2/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30732" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_kotiki_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>2640</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/efe/efe3c5293d87cc0df6bd2ed4dbe40ce2.jpg</picture>
+<name>Серьги Котики из серебра</name>
+<description>Вес: 7.33
+Размеры: 1.7/1.2/0.6
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30734" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_pantomima_ps_1_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>4060</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/4a2/4a2893a7796d9fed5b0d84d4738c3926.jpg</picture>
+<name>Серьги Пантомима ПС-1 из серебра</name>
+<description>Вес: 11.27
+Размеры: 4.6/1.2/0.6
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30736" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_pantomima_ps_3_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>3690</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/82a/82a7d5043d53e17d5b262a8662b96b2e.jpg</picture>
+<name>Серьги Пантомима ПС-3 из серебра</name>
+<description>Вес: 10.25
+Размеры: 4.5/1.2/0.5
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30735" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_paskha_2_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>3625</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/455/4551e7e1783451d3ffa1f41fb6511c61.jpg</picture>
+<name>Серьги Пасха-2 из серебра</name>
+<description>Вес: 10.06
+Размеры: 3/1.1/0.5
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30726" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_s_1_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>4425</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/ec2/ec29a07fec1e9a6ed8dc6078114d0297.jpg</picture>
+<name>Серьги С-1 из серебра</name>
+<description>Вес: 12.29
+Размеры: 3.1/3.3/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30733" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_solntsevorot_ss_18_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1640</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/228/22897467b1cfef22d36072699e4b7d5e.jpg</picture>
+<name>Серьги Солнцеворот СС-18 из серебра</name>
+<description>Вес: 4.55
+Размеры: 3/1.2/1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30729" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_solntsevorot_ss_3_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/4d4/4d4d9c25924a9aa4953ca40a099c9528.jpg</picture>
+<name>Серьги Солнцеворот СС-3 из серебра</name>
+<description>Вес: 4.72
+Размеры: 1.8/0.9/1.3
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30730" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_solntsevorot_ss_7_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1920</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/f5f/f5ff56cabded858c616e25313ca2a71a.jpg</picture>
+<name>Серьги Солнцеворот СС-7 из серебра</name>
+<description>Вес: 5.33
+Размеры: 1.9/1/1.2
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30731" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_solntsevorot_ss_9_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>1770</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/336/3365e0b66e037fd8221b71ff9702edff.jpg</picture>
+<name>Серьги Солнцеворот СС-9 из серебра</name>
+<description>Вес: 4.92
+Размеры: 2/1.1/1.3
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30728" available="true">
+<url>http://gktt.ru/catalog/bijou/sergi/sergi_solnyshko_ss_10_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>4470</price>
+<currencyId>RUR</currencyId>
+<categoryId>1088</categoryId>
+<picture>http://gktt.ru/upload/iblock/475/4754b5ab4f0c15a30b039ab153f35401.jpg</picture>
+<name>Серьги Солнышко СС-10 из серебра</name>
+<description>Вес: 12.41
+Размеры: 2.7/2.1/0.1
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+<offer id="30806" available="true">
+<url>http://gktt.ru/catalog/bijou/raznoe/statuetka_ovechka_iz_serebra/?r1=yandext&amp;r2=</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1094</categoryId>
+<picture>http://gktt.ru/upload/iblock/d94/d9410ad7129058386b1af60fce5b9a61.jpg</picture>
+<name>Статуэтка Овечка из серебра</name>
+<description>Вес: 22.40
+Размеры: 3.4/1.6/2.5
+Вставки: без вставок
+Технологии: оксидирование, ручная работа, эмаль
+</description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

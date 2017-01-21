@@ -1,0 +1,56 @@
+<?if (!defined("PROLOG_INCLUDED") || PROLOG_INCLUDED!==true) die();
+return array(
+	"COMPONENT" => "shop",
+	"NAME" => "Заказы",
+	"IBLOCK" => "basket",
+	"DESCRIPTION" => "Управление заказами",
+	"ICON" => '<i class="fa fa-cart-arrow-down"></i>',
+	"EDITOR_FILE" => "/MeteorRC/admin/editors/elements.php",
+	"BD_FOLDER" => "/MeteorRC/bd/shop/",
+	"CORPORATE" => "MeteorRC",
+	"TEXT_ADD" => "Создать заказ",
+	"ADMIN" => "Y",
+
+	'EVENTS' => array(
+		"TEXT" => array(
+			"ADD" => "Добавил заказ",
+			"EDIT" => "Изменил заказ",
+			"DELL" => "Удалил заказ",
+		),
+		"FIELDS" => array(
+			"NAME" => "ID",
+			"PREVIEW_TEXT" => "DATE",
+		)
+	),
+	'TABS' => array(
+		"MAIN" => "Содержимое заказа",
+		"USER" => "Контактные данные",
+	),
+	"FIELDS" => array(
+	"ID" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "ID заказа", "TYPE" => "DISABLED", "ICON" => '<i class="fa fa-code"></i>', "FASSET" => "Y", "MULTI" => "N"),
+	"PAY_SYSTEM_ID" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Способ оплаты", "TYPE" => "SELECT_BD", "BD" => "payment", "ICON" => '<i class="fa fa-money"></i>', "FASSET" => "Y"),
+	"STATUS" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Статус", "TYPE" => "SELECT", "SELECT" => array("CREATED" => "Не оплачен", "PAY" => "Оплачен"), "ICON" => '<i class="fa fa-check-square-o"></i>', "FASSET" => "Y", "DESCRIPTION" => "Статус заказа, в корзине означает, что заказ еще не сформирован"),
+	
+	"NAME" => array("TAB" => "USER", "DISPLAY" => "N", "NAME" => "Имя клиента", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-male"></i>', "FASSET" => "N", "DESCRIPTION" => ""),
+	"LAST_NAME" => array("TAB" => "USER", "DISPLAY" => "N", "NAME" => "Фамилия", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-male"></i>', "FASSET" => "N", "DESCRIPTION" => ""),
+	"ADDRES" => array("TAB" => "USER", "DISPLAY" => "N", "NAME" => "Адрес доставки", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-map-marker"></i>', "FASSET" => "N", "DESCRIPTION" => ""),
+	"CITY" => array("TAB" => "USER", "DISPLAY" => "Y", "NAME" => "Город доставки", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-map-signs"></i>', "FASSET" => "N", "DESCRIPTION" => ""),
+	"POST_CODE" => array("TAB" => "USER", "DISPLAY" => "N", "NAME" => "Почтовый индекс", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-envelope-o"></i>', "FASSET" => "N", "DESCRIPTION" => ""),
+	"EMAIL" => array("TAB" => "USER", "DISPLAY" => "Y", "NAME" => "E-mail", "TYPE" => "TEXT", "ICON" => '@', "FASSET" => "N", "DESCRIPTION" => ""),
+	"PHONE" => array("TAB" => "USER", "DISPLAY" => "N", "NAME" => "Телефон", "TYPE" => "PHONE", "ICON" => '<i class="fa fa-mobile"></i>', "FASSET" => "N", "DESCRIPTION" => ""),
+	
+
+	"PRODUCTS" => array("TAB" => "MAIN", "DISPLAY" => "N", "NAME" => "Товары", "TYPE" => "PRODUCT_TABLE", "COMBINATE" => array("Количество" => "QUANTITY"), "BD" => "products", "ICON" => '<i class="fa fa-folder-open-o"></i>', "FASSET" => "N", "MULTI" => "Y", "DESCRIPTION" => "Список товаров в корзине"),
+	"USER_ID" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Покупатель", "TYPE" => "SELECT_BD", "COMPONENT_BD" => "users", "BD" => "users", "ICON" => '<i class="fa fa-user"></i>', "FASSET" => "Y", "DESCRIPTION" => "Пользователь которому пренадлежит заказ, если он авторизован"),
+	"DATE" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Время создания заказа", "TYPE" => "DATE_TIME", "ICON" => '<i class="fa fa-clock-o"></i>', "FASSET" => "N", "MULTI" => "Y", "DESCRIPTION" => "Время в которое был создан заказ"),
+	"COMMENT" => array("TAB" => "MAIN", "DISPLAY" => "N", "NAME" => "Комментариий", "TYPE" => "TEXTAREA", "ICON" => '<i class="fa fa-pencil-square-o"></i>', "FASSET" => "N", "DESCRIPTION" => ""),
+
+	),
+	'IMAGE_WIDTH' => '50px',
+	"SEF_URL_TEMPLATES" => array(
+		"SEF_URL_PAGE" => "/products/",
+		"SEF_URL_SECTION" => "/products/#SECTION_ALIAS#/",
+		"SEF_URL_DETAIL" => "/products/#SECTION_ALIAS#/#ALIAS#.html",
+	),
+);
+?>

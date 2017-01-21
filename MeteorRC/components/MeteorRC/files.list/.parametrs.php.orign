@@ -1,0 +1,16 @@
+<?if (!defined("PROLOG_INCLUDED") || PROLOG_INCLUDED!==true) die();
+return array(
+	"COMPONENT" => "files",
+	"NAME" => "Списки файлов",
+	"IBLOCK" => "list",
+	"DESCRIPTION" => "Управление файлами",
+	"ICON" => '<i class="fa fa-file-image-o"></i>',
+	"EDITOR_FILE" => "/MeteorRC/admin/editors/elements.php",
+	"LIST_FOLDER" => "/MeteorRC/images/",
+	"CORPORATE" => "MeteorRC",
+	"TEXT_ADD" => "Добавить файл",
+	"TEXT_SAVE" => "файл успешно сохранен",
+	"ADMIN" => "Y",
+	'IMAGE_WIDTH' => '50px',
+);
+?>

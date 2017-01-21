@@ -1,0 +1,15 @@
+<?$APPLICATION->IncludeComponent("MeteorRC:content.musicbackround", "", Array(
+        "SORT" => array(
+        	"BY" => "ACTIVE_TIME",
+        	"ORDER" => "DESC",
+        	"TYPE" => "INT",
+        ),
+        "FILTER" => array("ACTIVE" => "Y"),
+		"COMPONENT" => "content",
+		"IBLOCK" => "musicbackround",	// Инфоблок
+		"COUNT" => 1,	// Количество элементов
+		"CACHE_TYPE" => "A",	// Тип кеширования
+		"CACHE_TIME" => "36000000",	// Время кеширования (сек.)
+	),
+	false
+);?>

@@ -1,0 +1,26 @@
+﻿.btn-transparent {
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: inherit;
+    font-family: inherit;
+}
+table.table.table-bordered.chart td {
+    vertical-align: middle;
+}
+
+@media (max-width: 900px){
+  .big-text {
+      font-size: 30px;
+  }
+}
+@media (max-width: 768px){
+  .big-text {
+      font-size: 25px;
+  }
+}
+@media (max-width: 480px){
+  .big-text {
+      font-size: 15px;
+  }
+}

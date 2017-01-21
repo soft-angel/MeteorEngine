@@ -1,0 +1,22 @@
+<?if (!defined("PROLOG_INCLUDED") || PROLOG_INCLUDED!==true) die();
+return array(
+	"COMPONENT" => "search",
+	"NAME" => "Поиск",
+	"IBLOCK" => "page",
+	"DESCRIPTION" => "Управление поиском",
+	"ICON" => '<i class="fa fa-search"></i>',
+	//"EDITOR_FILE" => "",
+	"BD_FOLDER" => "/MeteorRC/bd/search/",
+	"CORPORATE" => "MeteorRC",
+	"WINDOW_WIDTH" => 470,
+	'TABS' => array(
+		"MAIN" => "Основное",
+	),
+	"ADMIN" => "Y",
+	"FIELDS" => array(
+		"NAME" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Название", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-shopping-bag"></i>', "REQUIRED" => "Y", "FASSET" => "Y"),
+		"ACTIVE" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Активность", "TYPE" => "SELECT", "SELECT" => array("Y" => "Да", "N" => "Нет"), "ICON" => '<i class="fa fa-power-off"></i>', "FASSET" => "Y"),
+	),
+	'IMAGE_WIDTH' => '50px',
+);
+?>

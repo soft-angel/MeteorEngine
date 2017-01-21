@@ -1,0 +1,11 @@
+<?$APPLICATION->IncludeComponent("MeteorRC:main.filter", "", Array(
+		"COMPONENT" => 'component',
+		"IBLOCK" => 'iblock',	// Инфоблок
+        "FILTER_NAME" => 'FILTER', // GET переменная с массивом фильтра
+		"FIELDS" => array(
+			0 => 'PRICE',
+			0 => 'SECTION',
+		)
+	),
+	false
+);?>

@@ -1,0 +1,53 @@
+<?if (!defined("PROLOG_INCLUDED") || PROLOG_INCLUDED!==true) die();
+return array(
+	"COMPONENT" => "users",
+	"NAME" => "Список пользователей",
+	"DESCRIPTION" => "Управление пользователями",
+	"TEXT_ADD" => "Добавить пользователя",
+	"TEXT_SAVE" => "Пользователь успешно сохранен",
+	"ICON" => '<i class="fa fa-user"></i>',
+	"EDITOR_FILE" => "/MeteorRC/admin/editors/elements.php",
+	"IBLOCK" => "users",
+	"CORPORATE" => "MeteorRC",
+	"WINDOW_WIDTH" => 470,
+	"ACCESS" => array(
+		"NAME" => "Доступ к пользователям",
+		"KEY" => "USERS",
+		"TYPE" => array(
+			"A" => "Только чтение",
+			"N" => "Без доступа",
+			"Y" => "Полный доступ",
+		)
+	),
+
+	'EVENTS' => array(
+		"TEXT" => array(
+			"ADD" => "Добавил пользователя",
+			"EDIT" => "Отредактировал пользователя",
+			"DELL" => "Удалил пользователя",
+		),
+		"FIELDS" => array(
+			"NAME" => "NAME",
+			"PREVIEW_TEXT" => "STATUS",
+			"PREVIEW_PICTURE" => "PERSONAL_PHOTO",
+		)
+	),
+
+	'TABS' => array(
+		"MAIN" => "Основное",
+	),
+	"ADMIN" => "Y",
+	"FIELDS" => array(
+		"ACTIVE" => array("TAB" => "MAIN", "USER_EDIT" => "N", "DISPLAY" => "Y", "NAME" => "Активность", "TYPE" => "SELECT", "SELECT" => array("Y" => "Да", "N" => "Нет"), "DEFAULT_VALUE" => "Y", "ICON" => '<i class="fa fa-power-off"></i>', "FASSET" => "Y"),
+		"NAME" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Имя", "TYPE" => "TRANSLIT", "ICON" => '<i class="fa fa-user"></i>', "TRANSLIT_FOR" => "LOGIN", "FASSET" => "Y"),
+		"LAST_NAME" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Фамилия", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-user-secret"></i>', "FASSET" => "Y"),
+		"STATUS" => array("TAB" => "MAIN", "DISPLAY" => "N", "NAME" => "Статус", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-comment"></i>',"FASSET" => "N"),
+		"LOGIN" => array("TAB" => "MAIN", "DISPLAY" => "N", "NAME" => "Логин", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-sign-in"></i>', "DESCRIPTION" => "Допустимые символы: цифры [0-9], латиница в нижнем регистре [a-z], слеш [/], дефис [-], нижнее подчеркивание [_]", "REQUIRED" => "Y", "FASSET" => "Y"),
+		"PASSWORD" => array("TAB" => "MAIN", "DISPLAY" => "N", "NAME" => "Пароль", "TYPE" => "PASSWORD", "ICON" => '<i class="fa fa-unlock-alt"></i>', "DESCRIPTION" => "Допустимые символы: цифры [0-9], латиница в нижнем регистре [a-z], слеш [/], дефис [-], нижнее подчеркивание [_]", "REQUIRED" => "Y"),
+		"GROUP_ID" => array("TAB" => "MAIN", "USER_EDIT" => "N", "DISPLAY" => "Y", "NAME" => "Группа пользователя", "TYPE" => "SELECT_BD", "BD" => "groups", "REQUIRED" => "Y", "ICON" => '<i class="fa fa-users"></i>', "FASSET" => "Y"),
+		"PERSONAL_PHOTO" => array("TAB" => "MAIN", "DISPLAY" => "Y", "NAME" => "Фотография", 'MAX_WIDTH' => 200, 'QUALITY' => 70, "TYPE" => "IMAGE", "ICON" => '<i class="fa fa-picture-o"></i>'),
+		"PERSONAL_PHONE" => array("TAB" => "MAIN", "DISPLAY" => "N", "NAME" => "Телефон", "TYPE" => "TEXT", "ICON" => '<i class="fa fa-phone-square"></i>'),
+	),
+	'IMAGE_WIDTH' => '50px',
+);
+?>

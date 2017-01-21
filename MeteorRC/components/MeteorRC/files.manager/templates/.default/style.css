@@ -1,0 +1,16 @@
+.file-prewiew img {
+	width: 50px;
+}
+.file-prewiew i {
+	font-size: 17px;
+}
+div#files-list td {
+    vertical-align: middle;
+}
+#files-list-upload {
+	display: none;
+	margin-bottom: 15px;
+}
+div#files-control {
+    vertical-align: bottom;
+}
